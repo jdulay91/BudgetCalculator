@@ -49,10 +49,12 @@ body {
 }
 
 .budget__title {
-    font-size: 18px;
+    font-size: 2rem;
     text-align: center;
     margin-bottom: 10px;
-    font-weight: 300;
+    font-weight: 900;
+    text-shadow: 1px 1px gray;
+    
 }
 
 .budget__value {
